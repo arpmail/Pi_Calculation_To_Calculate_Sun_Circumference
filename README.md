@@ -48,15 +48,9 @@ docker-compose up --build
 2. At the top left, click Open > find naluri-backend and choose it > Click Ok > Trust Project 
 3. Run the application 
 
-## Additional Thoughts
-I’m just starting out with backend development, so building this project was a huge learning experience! I got hands-on with React ft Tailwindcss, Spring Boot, redis, and figuring out how to make the frontend and backend work together.
-
-It’s also my first attempt at a full-stack app from scratch, so I learned a lot about backend process, threading, and even Docker. Honestly, it was exciting to see it all come together!
-
-## Limitations
-The UI is simple and works fine, but it’s not fully polished as i wish it can be more interactive and nice for eyes(include more transition and animation maybe?).
 
 ## Future Work
 I try to make the UI more polished and user-friendly.
 Will add some network or security checking and learn how actual production application connecting to each other in secured network.
+
 I would love to learn Kubernetes so that can i try to implement in this project.
