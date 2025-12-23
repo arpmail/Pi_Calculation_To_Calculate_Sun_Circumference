@@ -49,8 +49,3 @@ docker-compose up --build
 3. Run the application 
 
 
-## Future Work
-I try to make the UI more polished and user-friendly.
-Will add some network or security checking and learn how actual production application connecting to each other in secured network.
-
-I would love to learn Kubernetes so that can i try to implement in this project.
