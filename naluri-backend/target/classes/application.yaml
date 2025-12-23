@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: naluri-backend-service
+  data:
+    redis:
+      host: redis
+      port: 6379
